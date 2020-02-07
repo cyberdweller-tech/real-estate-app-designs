@@ -1,0 +1,71 @@
+
+Below is our understanding of the Project Summary. Kindly validate.
+
+The application would broadly comprise of 2 modules:
+
+1. Agent module where the agents can upload property details along with photos, videos etc. In addition to this, the agents would be able to upload their brand logo and color scheme for specific properties.
+
+2. User module, where the users can search for properties specifying regions, number of bedrooms,price etc. Users would also be able to mark interests/favorites and add calendar events for inspections of interested properties.
+
+App-related queries
+*******************
+1. What is the proposed name of the application. Is there an app logo available?
+
+<answer>  </answer>
+
+2. What are the types of users expected? (Agents, clients, users?)
+
+<answer>  </answer>
+
+3. Would the type of the user be captured during first time registration ?
+
+<answer>  </answer>
+
+4. Clarification required on these terms - Real Estate buyers, clients, agents, subscribers, users.
+
+<answer>  </answer>
+
+5. " The property search allows users to specify search regions, price, number of bedrooms etc. for a property, and return a scrollable list of properties. When a user selects a property, we navigate to the property page in which they can add notes, photos etc."
+Question: In this case, is the user "an agent" or "customer looking for property"?
+
+<answer>  </answer>
+
+6. Which devices will have to be supported?
+
+<answer>  </answer>
+
+7. One of the apps provided as reference (Domain.com.au) is unavailable for download in India. Would it be possible to share the necessary screenshots?
+
+<answer>  </answer>
+
+8. Would the app list only the properties located in Australia ? 
+<answer>  </answer>
+
+9. Is there any specific color palette for your brand that we should be using as theme for the app ? 
+<answer>  </answer>
+
+10. Will we be provided sample data (including images/videos) during the design and development phase? 
+<answer>  </answer>
+
+11. Since we would require to use maps and current location features in our app, would it be OK to use Google places API services (billable) during development phase? 
+<answer>  </answer>
+
+12. What are the preferred login methods i.e., using email/pwd, using Google account, using Facebook account etc. ?
+
+
+
+General queries:
+*****************
+
+1. How should we share the wireframes for review? Word document with screenshots? 
+<answer>  </answer>
+
+2. Should we continue to post our queries to this Github repo for clarification or do we have any other medium?
+<answer>  </answer>
+
+3. Will this repository be used to version control source code too?
+<answer>  </answer>
+
+3. File uploads are disabled for this repository. Please advise.
+<answer>  </answer>
+
