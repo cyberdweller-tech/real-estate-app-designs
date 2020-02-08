@@ -5,67 +5,85 @@ The application would broadly comprise of 2 modules:
 
 1. Agent module where the agents can upload property details along with photos, videos etc. In addition to this, the agents would be able to upload their brand logo and color scheme for specific properties.
 
+  The goal of the agent is to make the process of finding a house as easy as possible for their clients. They will be able to search all properties on the public market, as well as upload their own off-market properties. They will have a list of clients, and suggest properties to each client separately depending on what that client is looking for. And yes, the agent will be able to upload the branding for their business.
+
 2. User module, where the users can search for properties specifying regions, number of bedrooms,price etc. Users would also be able to mark interests/favorites and add calendar events for inspections of interested properties.
+
+  The second module will be the client module. Every client is looked after by an agent. The client can view a list of properties suggested by their agent.
 
 App-related queries
 *******************
 1. What is the proposed name of the application. Is there an app logo available?
 
-<answer>  </answer>
+  The Organised Buyer
 
 2. What are the types of users expected? (Agents, clients, users?)
 
-<answer>  </answer>
+  Agent/Buyer: These are professionals who are hired to assist people to find houses to buy. The key purpose of the app is to  assist these buyers in managing and communicating with their clients. So they will have a list of clients that they are managing. An agent will be able to search and find properties for specific clients, and send them this property via the app. Also an agent can add their own properties for only their own clients to see, these are called off market properties. An agent works for an agency, and each agency can have one or more agents attached to it.
+
+  Client: A client is represented by an agent, and will be able to access the app by invitation from their agent. They will see what properties are suggested by their agent, including the property information and images.
 
 3. Would the type of the user be captured during first time registration ?
 
-<answer>  </answer>
+  I would like to clarify this with you in conversation Vengat. But ideally, an agent will subscribe to the app, and be able to email invitations to all their clients, so the clients can sign on for free.
 
 4. Clarification required on these terms - Real Estate buyers, clients, agents, subscribers, users.
 
-<answer>  </answer>
-
+  Real estate buyers and agents are identical terms.
+  
+  Clients hire an agent to find them properties to buy. Then the agent using the app will invite their client to access the app and view the properties that the agent has found for them.
+  
 5. " The property search allows users to specify search regions, price, number of bedrooms etc. for a property, and return a scrollable list of properties. When a user selects a property, we navigate to the property page in which they can add notes, photos etc."
 Question: In this case, is the user "an agent" or "customer looking for property"?
 
-<answer>  </answer>
+  In this case the user is an agent. 
+
+  The idea is that functionality for a client is much more basic, they will be able to view a list of properties suggested by their agent, then click on each property, view the details, and upload their own notes, images etc. Additionally the client can view appointments made by the agent for them to go in person and inspect a property.
 
 6. Which devices will have to be supported?
 
-<answer>  </answer>
+  Phones, tablets and browsers.
 
 7. One of the apps provided as reference (Domain.com.au) is unavailable for download in India. Would it be possible to share the necessary screenshots?
 
-<answer>  </answer>
+  Yes, will upload screenshots. Also note that the apps provided as reference only offer part of what we are doing here. These apps are made for anyone looking for a house, we are trying to make an app for professional agents to help manage organisation and communication with clients.
 
 8. Would the app list only the properties located in Australia ? 
-<answer>  </answer>
+
+  Yes.
 
 9. Is there any specific color palette for your brand that we should be using as theme for the app ? 
-<answer>  </answer>
+
+  None yet.
 
 10. Will we be provided sample data (including images/videos) during the design and development phase? 
-<answer>  </answer>
+
+  Yes, within the next few weeks.
 
 11. Since we would require to use maps and current location features in our app, would it be OK to use Google places API services (billable) during development phase? 
-<answer>  </answer>
+
+  Depending of the difference between the billable and free version of the API. But if need be that would be ok.
 
 12. What are the preferred login methods i.e., using email/pwd, using Google account, using Facebook account etc. ?
 
-
+  Email/pwd would be preferred.
 
 General queries:
 *****************
 
 1. How should we share the wireframes for review? Word document with screenshots? 
-<answer>  </answer>
+
+  Word document with screenshots is good.
 
 2. Should we continue to post our queries to this Github repo for clarification or do we have any other medium?
-<answer>  </answer>
+
+  Whatsapp or email also works.
 
 3. Will this repository be used to version control source code too?
-<answer>  </answer>
+
+  When we come to writing code we can make a new repo.
 
 3. File uploads are disabled for this repository. Please advise.
-<answer>  </answer>
+
+  I have added you as a collaborator, you just need to accept the invitation I believe. Let me know if there is a problem.
 
